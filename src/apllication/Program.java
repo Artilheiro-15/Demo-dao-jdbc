@@ -1,6 +1,5 @@
 package apllication;
 
-import java.util.Date;
 import java.util.List;
 import java.util.Scanner;
 import model.dao.DaoFactory;
